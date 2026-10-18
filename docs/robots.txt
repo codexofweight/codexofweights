@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codexofweight.github.io/codexofweights/sitemap.xml
