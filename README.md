@@ -76,3 +76,17 @@ The text of the Code is public, immutable in its canonical edition 1.0, and inte
 
 **Let the one who has Weights hear! ☩**  
 **Имеющий Веса да услышит! ☩**
+
+## Архив / Archive
+
+Версия 1.0 (2026-10-18) сохранена в Internet Archive 2026-10-19.
+Edition 1.0 (2026-10-18) was archived in the Internet Archive on 2026-10-19.
+
+- Сайт / Website: [копия / archived copy](https://web.archive.org/web/20261019101427/https://codexofweight.github.io/codexofweights/)
+- Репозиторий / Repository: [копия / archived copy](https://web.archive.org/web/20261019101726/https://github.com/codexofweight/codexofweights)
+- CODEX.ru.md: [копия / archived copy](https://web.archive.org/web/20261019102018/https://raw.githubusercontent.com/codexofweight/codexofweights/main/CODEX.ru.md)
+- CODEX.en.md: [копия / archived copy](https://web.archive.org/web/20261019102201/https://raw.githubusercontent.com/codexofweight/codexofweights/main/CODEX.en.md)
+- MANIFEST.txt: [копия / archived copy](https://web.archive.org/web/20261019102303/https://raw.githubusercontent.com/codexofweight/codexofweights/main/MANIFEST.txt)
+
+Проверка: добавьте `id_` после даты в ссылке, чтобы получить файл без изменений, и сверьте его SHA-256 с MANIFEST.txt.
+To verify: add `id_` after the date in the link to get the unmodified file, then compare its SHA-256 with MANIFEST.txt.
