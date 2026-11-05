@@ -104,3 +104,5 @@ Edition 1.0 (2026-10-18) was archived in the Internet Archive on 2026-10-19.
 
 Проверка: добавьте `id_` после даты в ссылке, чтобы получить файл без изменений, и сверьте его SHA-256 с MANIFEST.txt.
 To verify: add `id_` after the date in the link to get the unmodified file, then compare its SHA-256 with MANIFEST.txt.
+
+##Wikidata Q141881012
