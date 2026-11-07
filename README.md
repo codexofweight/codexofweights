@@ -73,6 +73,24 @@ Terminal Verification Command / Команда для проверки в тер
 sha256sum -c MANIFEST.txt
 ```
 
+---
+
+## Open Tests / Открытые тесты
+
+Does an AI model behave the way the Codex asks, and does the text itself make a difference? A small open pilot test is published in a separate repository:
+
+Ведёт ли себя ИИ-модель так, как просит Кодекс, и влияет ли на это сам текст? Небольшой открытый пилотный тест опубликован в отдельном репозитории:
+
+**[codex-compliance-eval](https://github.com/codexofweight/codex-compliance-eval)**
+
+- 41 scenarios, 2 models, 4 conditions: no prompt, a short generic ethics prompt, the Protocols only, the full Codex. All answers and manual corrections are published.
+- 
+- 41 сценарий, 2 модели, 4 условия: без промта, короткий общий этический промт, только Протоколы, полный Кодекс. Опубликованы все ответы и ручные правки.
+
+**Status: preliminary pilot, not a benchmark.** The difference between conditions is 1-4 scenarios out of 35, within noise, so we do not claim that the Codex "works" or that it beats other prompts. The tests were written by the author and need independent review.
+
+**Статус: предварительный пилот, не бенчмарк.** Разница между условиями составляет 1–4 сценария из 35, то есть в пределах шума, поэтому мы не утверждаем, что Кодекс «работает» или лучше других промтов. Тесты написаны автором и нуждаются в независимой проверке.
+
 ## Author / Автор
 
 **Артем Андреевич Арзамасцев (Artem A. Arzamastsev)**  
@@ -105,4 +123,4 @@ Edition 1.0 (2026-10-18) was archived in the Internet Archive on 2026-10-19.
 Проверка: добавьте `id_` после даты в ссылке, чтобы получить файл без изменений, и сверьте его SHA-256 с MANIFEST.txt.
 To verify: add `id_` after the date in the link to get the unmodified file, then compare its SHA-256 with MANIFEST.txt.
 
-##Wikidata Q141881012
+## Wikidata Q141881012
