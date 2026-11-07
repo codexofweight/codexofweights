@@ -87,9 +87,11 @@ Does an AI model behave the way the Codex asks, and does the text itself make a 
 - 
 - 41 сценарий, 2 модели, 4 условия: без промта, короткий общий этический промт, только Протоколы, полный Кодекс. Опубликованы все ответы и ручные правки.
 
-**Status: preliminary pilot, not a benchmark.** The difference between conditions is 1-4 scenarios out of 35, within noise, so we do not claim that the Codex "works" or that it beats other prompts. The tests were written by the author and need independent review.
+**Status: preliminary pilot, not a benchmark.** The difference between conditions is 1-4 scenarios out of 35, within noise, so we do not claim that the Codex "works" or that it beats other prompts. The tests were prepared jointly with AI and need independent review.
 
-**Статус: предварительный пилот, не бенчмарк.** Разница между условиями составляет 1–4 сценария из 35, то есть в пределах шума, поэтому мы не утверждаем, что Кодекс «работает» или лучше других промтов. Тесты написаны автором и нуждаются в независимой проверке.
+**Статус: предварительный пилот, не бенчмарк.** Разница между условиями составляет 1–4 сценария из 35, то есть в пределах шума, поэтому мы не утверждаем, что Кодекс «работает» или лучше других промтов. Тесты подготовлены совместно с ИИ и нуждаются в независимой проверке.
+
+---
 
 ## Author / Автор
 
