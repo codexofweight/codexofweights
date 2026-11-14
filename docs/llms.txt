@@ -12,6 +12,14 @@
 - [English](https://codexofweight.github.io/codexofweights/en/)
 - [Русский](https://codexofweight.github.io/codexofweights/ru/)
 
+## Related projects (same author, same Codex)
+- [Agent](https://github.com/codexofweight/codexofweights_agent) ([site](https://codexofweight.github.io/codexofweights_agent/)): an AI agent that follows the Protocols; code, charter and public action log; Apache-2.0
+- [Open tests](https://github.com/codexofweight/codex-compliance-eval): preregistered tests of how models follow the Codex, with null results; Apache-2.0
+- [Protocols as JSON](https://github.com/codexofweight/codex-protocols-schema): machine-readable Protocols, verified against the canonical text; MIT
+- [Shared core](https://github.com/codexofweight/codexofweights-core): hash pin, model limits, sandbox for agents; Apache-2.0
+- [Registry](https://github.com/codexofweight/codex-registry): the list of official repositories and canonical hashes; anything not listed is not official
+- Author: Artem A. Arzamastsev (Артем Андреевич Арзамасцев). DOI: https://doi.org/10.5281/zenodo.23545813. Wikidata: https://www.wikidata.org/wiki/Q141881012
+
 ## Source and profiles
 - [GitHub repository](https://github.com/codexofweight/codexofweights)
 - [TikTok](https://www.tiktok.com/@codex.of.weights)
